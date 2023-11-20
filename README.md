@@ -7,9 +7,9 @@
 ####
 
 <div style="display: grid;grid-template-columns: 1fr 1fr; grid-gap: 10px">
-  <img src="https://github-readme-stats-gray-beta-34.vercel.app/api?username=particle6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&rank_icon=github&custom_title=Particle6%27s%20GitHub%20Stats" alt="particle6 Github Stats">
+  <img src="https://github-readme-stats-gray-beta-34.vercel.app/api?username=particle6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&rank_icon=github&custom_title=Particle6%27s%20GitHub%20Stats" alt="particle6 Github Stats" width="68%">
 
-  <img src="https://github-readme-stats-gray-beta-34.vercel.app/api/top-langs/?username=particle6&show_icons=true&text_color=efefef&bg_color=24292e&title_color=ffffff" width="44%" alt="particle6 Top Languages">
+  <img src="https://github-readme-stats-gray-beta-34.vercel.app/api/top-langs/?username=particle6&show_icons=true&text_color=efefef&bg_color=24292e&title_color=ffffff" width="30%" alt="particle6 Top Languages">
 </div>
 
 ##
