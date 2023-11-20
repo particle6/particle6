@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Particle6!
+
+#### I'm a passionate developer, currently managing a team of awesome people!
 
 <!--
 **particle6/particle6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.buymeacoffee.com/particle6"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer!&emoji=🍺&slug=particle6&button_colour=407544&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
